@@ -1,0 +1,402 @@
+Sample ID	Length	Serotype
+639] [gbkey=CDS]	639	O
+lcl|HQ439237.1_cds_ADZ98743.1_1 [protein=VP1] [protein_id=ADZ98743.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ439236.1_cds_ADZ98742.1_1 [protein=VP1] [protein_id=ADZ98742.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ439235.1_cds_ADZ98741.1_1 [protein=VP1] [protein_id=ADZ98741.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ439234.1_cds_ADZ98740.1_1 [protein=VP1] [protein_id=ADZ98740.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ439233.1_cds_ADZ98739.1_1 [protein=VP1] [protein_id=ADZ98739.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ439232.1_cds_ADZ98738.1_1 [protein=VP1] [protein_id=ADZ98738.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ439231.1_cds_ADZ98737.1_1 [protein=VP1] [protein_id=ADZ98737.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ439230.1_cds_ADZ98736.1_1 [protein=VP1] [protein_id=ADZ98736.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|DQ165035.1_cds_ABA46704.1_1 [protein=VP1 protein] [protein_id=ABA46704.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|EF457988.1_cds_ABR13028.1_1 [gene=1D] [protein=1D protein] [protein_id=ABR13028.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|EF457987.1_cds_ABR13027.1_1 [gene=1D] [protein=1D protein] [protein_id=ABR13027.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|EF457986.1_cds_ABR13026.1_1 [gene=1D] [protein=1D protein] [protein_id=ABR13026.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|EF457985.1_cds_ABR13025.1_1 [gene=1D] [protein=1D protein] [protein_id=ABR13025.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|EF457984.1_cds_ABR13024.1_1 [gene=1D] [protein=1D protein] [protein_id=ABR13024.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|EF457983.1_cds_ABR13023.1_1 [gene=1D] [protein=1D protein] [protein_id=ABR13023.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|EF457982.1_cds_ABR13022.1_1 [gene=1D] [protein=1D protein] [protein_id=ABR13022.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|EF457981.1_cds_ABR13021.1_1 [gene=1D] [protein=1D protein] [protein_id=ABR13021.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|EF457980.1_cds_ABR13020.1_1 [gene=1D] [protein=1D protein] [protein_id=ABR13020.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ446511.1_cds_ADZ98835.1_1 [protein=VP1] [protein_id=ADZ98835.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439309.1_cds_ADZ98834.1_1 [protein=VP1] [protein_id=ADZ98834.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439308.1_cds_ADZ98833.1_1 [protein=VP1] [protein_id=ADZ98833.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439307.1_cds_ADZ98832.1_1 [protein=VP1] [protein_id=ADZ98832.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439306.1_cds_ADZ98831.1_1 [protein=VP1] [protein_id=ADZ98831.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439305.1_cds_ADZ98830.1_1 [protein=VP1] [protein_id=ADZ98830.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439304.1_cds_ADZ98829.1_1 [protein=VP1] [protein_id=ADZ98829.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439303.1_cds_ADZ98828.1_1 [protein=VP1] [protein_id=ADZ98828.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439302.1_cds_ADZ98827.1_1 [protein=VP1] [protein_id=ADZ98827.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439301.1_cds_ADZ98826.1_1 [protein=VP1] [protein_id=ADZ98826.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439300.1_cds_ADZ98825.1_1 [protein=VP1] [protein_id=ADZ98825.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439299.1_cds_ADZ98824.1_1 [protein=VP1] [protein_id=ADZ98824.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439298.1_cds_ADZ98823.1_1 [protein=VP1] [protein_id=ADZ98823.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439297.1_cds_ADZ98822.1_1 [protein=VP1] [protein_id=ADZ98822.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439296.1_cds_ADZ98821.1_1 [protein=VP1] [protein_id=ADZ98821.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439295.1_cds_ADZ98820.1_1 [protein=VP1] [protein_id=ADZ98820.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439294.1_cds_ADZ98819.1_1 [protein=VP1] [protein_id=ADZ98819.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439290.1_cds_ADZ98815.1_1 [protein=VP1] [protein_id=ADZ98815.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439289.1_cds_ADZ98814.1_1 [protein=VP1] [protein_id=ADZ98814.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439288.1_cds_ADZ98813.1_1 [protein=VP1] [protein_id=ADZ98813.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439287.1_cds_ADZ98812.1_1 [protein=VP1] [protein_id=ADZ98812.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439286.1_cds_ADZ98811.1_1 [protein=VP1] [protein_id=ADZ98811.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439285.1_cds_ADZ98810.1_1 [protein=VP1] [protein_id=ADZ98810.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439284.1_cds_ADZ98809.1_1 [protein=VP1] [protein_id=ADZ98809.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439283.1_cds_ADZ98808.1_1 [protein=VP1] [protein_id=ADZ98808.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439282.1_cds_ADZ98807.1_1 [protein=VP1] [protein_id=ADZ98807.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439281.1_cds_ADZ98806.1_1 [protein=VP1] [protein_id=ADZ98806.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439280.1_cds_ADZ98805.1_1 [protein=VP1] [protein_id=ADZ98805.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439279.1_cds_ADZ98804.1_1 [protein=VP1] [protein_id=ADZ98804.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439278.1_cds_ADZ98803.1_1 [protein=VP1] [protein_id=ADZ98803.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439277.1_cds_ADZ98802.1_1 [protein=VP1] [protein_id=ADZ98802.1] [location=<1..>417] [gbkey=CDS]	417	A
+lcl|HQ439276.1_cds_ADZ98801.1_1 [protein=VP1] [protein_id=ADZ98801.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439275.1_cds_ADZ98800.1_1 [protein=VP1] [protein_id=ADZ98800.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439274.1_cds_ADZ98799.1_1 [protein=VP1] [protein_id=ADZ98799.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439273.1_cds_ADZ98798.1_1 [protein=VP1] [protein_id=ADZ98798.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439272.1_cds_ADZ98797.1_1 [protein=VP1] [protein_id=ADZ98797.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439271.1_cds_ADZ98796.1_1 [protein=VP1] [protein_id=ADZ98796.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439270.1_cds_ADZ98795.1_1 [protein=VP1] [protein_id=ADZ98795.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439269.1_cds_ADZ98794.1_1 [protein=VP1] [protein_id=ADZ98794.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439268.1_cds_ADZ98793.1_1 [protein=VP1] [protein_id=ADZ98793.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439267.1_cds_ADZ98792.1_1 [protein=VP1] [protein_id=ADZ98792.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439266.1_cds_ADZ98791.1_1 [protein=VP1] [protein_id=ADZ98791.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439265.1_cds_ADZ98790.1_1 [protein=VP1] [protein_id=ADZ98790.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439264.1_cds_ADZ98789.1_1 [protein=VP1] [protein_id=ADZ98789.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439263.1_cds_ADZ98788.1_1 [protein=VP1] [protein_id=ADZ98788.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439262.1_cds_ADZ98787.1_1 [protein=VP1] [protein_id=ADZ98787.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439261.1_cds_ADZ98786.1_1 [protein=VP1] [protein_id=ADZ98786.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT443048.1_cds_QWL56144.1_1 [protein=VP1] [protein_id=QWL56144.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443047.1_cds_QWL56143.1_1 [protein=VP1] [protein_id=QWL56143.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443046.1_cds_QWL56142.1_1 [protein=VP1] [protein_id=QWL56142.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443045.1_cds_QWL56141.1_1 [protein=VP1] [protein_id=QWL56141.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443044.1_cds_QWL56140.1_1 [protein=VP1] [protein_id=QWL56140.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443043.1_cds_QWL56139.1_1 [protein=VP1] [protein_id=QWL56139.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443042.1_cds_QWL56138.1_1 [protein=VP1] [protein_id=QWL56138.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443041.1_cds_QWL56137.1_1 [protein=VP1] [protein_id=QWL56137.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443040.1_cds_QWL56136.1_1 [protein=VP1] [protein_id=QWL56136.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443039.1_cds_QWL56135.1_1 [protein=VP1] [protein_id=QWL56135.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443038.1_cds_QWL56134.1_1 [protein=VP1] [protein_id=QWL56134.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443037.1_cds_QWL56133.1_1 [protein=VP1] [protein_id=QWL56133.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443036.1_cds_QWL56132.1_1 [protein=VP1] [protein_id=QWL56132.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443035.1_cds_QWL56131.1_1 [protein=VP1] [protein_id=QWL56131.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443034.1_cds_QWL56130.1_1 [protein=VP1] [protein_id=QWL56130.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443033.1_cds_QWL56129.1_1 [protein=VP1] [protein_id=QWL56129.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443032.1_cds_QWL56128.1_1 [protein=VP1] [protein_id=QWL56128.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443031.1_cds_QWL56127.1_1 [protein=VP1] [protein_id=QWL56127.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443030.1_cds_QWL56126.1_1 [protein=VP1] [protein_id=QWL56126.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443029.1_cds_QWL56125.1_1 [protein=VP1] [protein_id=QWL56125.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443028.1_cds_QWL56124.1_1 [protein=VP1] [protein_id=QWL56124.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443027.1_cds_QWL56123.1_1 [protein=VP1] [protein_id=QWL56123.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443026.1_cds_QWL56122.1_1 [protein=VP1] [protein_id=QWL56122.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443025.1_cds_QWL56121.1_1 [protein=VP1] [protein_id=QWL56121.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443024.1_cds_QWL56120.1_1 [protein=VP1] [protein_id=QWL56120.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443023.1_cds_QWL56119.1_1 [protein=VP1] [protein_id=QWL56119.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443022.1_cds_QWL56118.1_1 [protein=VP1] [protein_id=QWL56118.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443021.1_cds_QWL56117.1_1 [protein=VP1] [protein_id=QWL56117.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443020.1_cds_QWL56116.1_1 [protein=VP1] [protein_id=QWL56116.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443019.1_cds_QWL56115.1_1 [protein=VP1] [protein_id=QWL56115.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443018.1_cds_QWL56114.1_1 [protein=VP1] [protein_id=QWL56114.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443017.1_cds_QWL56113.1_1 [protein=VP1] [protein_id=QWL56113.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443016.1_cds_QWL56112.1_1 [protein=VP1] [protein_id=QWL56112.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443015.1_cds_QWL56111.1_1 [protein=VP1] [protein_id=QWL56111.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443014.1_cds_QWL56110.1_1 [protein=VP1] [protein_id=QWL56110.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443013.1_cds_QWL56109.1_1 [protein=VP1] [protein_id=QWL56109.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443012.1_cds_QWL56108.1_1 [protein=VP1] [protein_id=QWL56108.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443011.1_cds_QWL56107.1_1 [protein=VP1] [protein_id=QWL56107.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443010.1_cds_QWL56106.1_1 [protein=VP1] [protein_id=QWL56106.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443009.1_cds_QWL56105.1_1 [protein=VP1] [protein_id=QWL56105.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443008.1_cds_QWL56104.1_1 [protein=VP1] [protein_id=QWL56104.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443007.1_cds_QWL56103.1_1 [protein=VP1] [protein_id=QWL56103.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443006.1_cds_QWL56102.1_1 [protein=VP1] [protein_id=QWL56102.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443005.1_cds_QWL56101.1_1 [protein=VP1] [protein_id=QWL56101.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443004.1_cds_QWL56100.1_1 [protein=VP1] [protein_id=QWL56100.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443003.1_cds_QWL56099.1_1 [protein=VP1] [protein_id=QWL56099.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443002.1_cds_QWL56098.1_1 [protein=VP1] [protein_id=QWL56098.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443001.1_cds_QWL56097.1_1 [protein=VP1] [protein_id=QWL56097.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT443000.1_cds_QWL56096.1_1 [protein=VP1] [protein_id=QWL56096.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442999.1_cds_QWL56095.1_1 [protein=VP1] [protein_id=QWL56095.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442998.1_cds_QWL56094.1_1 [protein=VP1] [protein_id=QWL56094.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442997.1_cds_QWL56093.1_1 [protein=VP1] [protein_id=QWL56093.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442996.1_cds_QWL56092.1_1 [protein=VP1] [protein_id=QWL56092.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442995.1_cds_QWL56091.1_1 [protein=VP1] [protein_id=QWL56091.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442994.1_cds_QWL56090.1_1 [protein=VP1] [protein_id=QWL56090.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442993.1_cds_QWL56089.1_1 [protein=VP1] [protein_id=QWL56089.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442992.1_cds_QWL56088.1_1 [protein=VP1] [protein_id=QWL56088.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442991.1_cds_QWL56087.1_1 [protein=VP1] [protein_id=QWL56087.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442990.1_cds_QWL56086.1_1 [protein=VP1] [protein_id=QWL56086.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442989.1_cds_QWL56085.1_1 [protein=VP1] [protein_id=QWL56085.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442988.1_cds_QWL56084.1_1 [protein=VP1] [protein_id=QWL56084.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442987.1_cds_QWL56083.1_1 [protein=VP1] [protein_id=QWL56083.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442986.1_cds_QWL56082.1_1 [protein=VP1] [protein_id=QWL56082.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442985.1_cds_QWL56081.1_1 [protein=VP1] [protein_id=QWL56081.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442984.1_cds_QWL56080.1_1 [protein=VP1] [protein_id=QWL56080.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442983.1_cds_QWL56079.1_1 [protein=VP1] [protein_id=QWL56079.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442982.1_cds_QWL56078.1_1 [protein=VP1] [protein_id=QWL56078.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442981.1_cds_QWL56077.1_1 [protein=VP1] [protein_id=QWL56077.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442980.1_cds_QWL56076.1_1 [protein=VP1] [protein_id=QWL56076.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442979.1_cds_QWL56075.1_1 [protein=VP1] [protein_id=QWL56075.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442978.1_cds_QWL56074.1_1 [protein=VP1] [protein_id=QWL56074.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442977.1_cds_QWL56073.1_1 [protein=VP1] [protein_id=QWL56073.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442976.1_cds_QWL56072.1_1 [protein=VP1] [protein_id=QWL56072.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442975.1_cds_QWL56071.1_1 [protein=VP1] [protein_id=QWL56071.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442974.1_cds_QWL56070.1_1 [protein=VP1] [protein_id=QWL56070.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442973.1_cds_QWL56069.1_1 [protein=VP1] [protein_id=QWL56069.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442972.1_cds_QWL56068.1_1 [protein=VP1] [protein_id=QWL56068.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442971.1_cds_QWL56067.1_1 [protein=VP1] [protein_id=QWL56067.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442970.1_cds_QWL56066.1_1 [protein=VP1] [protein_id=QWL56066.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442969.1_cds_QWL56065.1_1 [protein=VP1] [protein_id=QWL56065.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442968.1_cds_QWL56064.1_1 [protein=VP1] [protein_id=QWL56064.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442967.1_cds_QWL56063.1_1 [protein=VP1] [protein_id=QWL56063.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442966.1_cds_QWL56062.1_1 [protein=VP1] [protein_id=QWL56062.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442965.1_cds_QWL56061.1_1 [protein=VP1] [protein_id=QWL56061.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442964.1_cds_QWL56060.1_1 [protein=VP1] [protein_id=QWL56060.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442963.1_cds_QWL56059.1_1 [protein=VP1] [protein_id=QWL56059.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442962.1_cds_QWL56058.1_1 [protein=VP1] [protein_id=QWL56058.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442961.1_cds_QWL56057.1_1 [protein=VP1] [protein_id=QWL56057.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442960.1_cds_QWL56056.1_1 [protein=VP1] [protein_id=QWL56056.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442959.1_cds_QWL56055.1_1 [protein=VP1] [protein_id=QWL56055.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442958.1_cds_QWL56054.1_1 [protein=VP1] [protein_id=QWL56054.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442957.1_cds_QWL56053.1_1 [protein=VP1] [protein_id=QWL56053.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442956.1_cds_QWL56052.1_1 [protein=VP1] [protein_id=QWL56052.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442955.1_cds_QWL56051.1_1 [protein=VP1] [protein_id=QWL56051.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442954.1_cds_QWL56050.1_1 [protein=VP1] [protein_id=QWL56050.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442953.1_cds_QWL56049.1_1 [protein=VP1] [protein_id=QWL56049.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442952.1_cds_QWL56048.1_1 [protein=VP1] [protein_id=QWL56048.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442951.1_cds_QWL56047.1_1 [protein=VP1] [protein_id=QWL56047.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442950.1_cds_QWL56046.1_1 [protein=VP1] [protein_id=QWL56046.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442949.1_cds_QWL56045.1_1 [protein=VP1] [protein_id=QWL56045.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442948.1_cds_QWL56044.1_1 [protein=VP1] [protein_id=QWL56044.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442947.1_cds_QWL56043.1_1 [protein=VP1] [protein_id=QWL56043.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442946.1_cds_QWL56042.1_1 [protein=VP1] [protein_id=QWL56042.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442945.1_cds_QWL56041.1_1 [protein=VP1] [protein_id=QWL56041.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442944.1_cds_QWL56040.1_1 [protein=VP1] [protein_id=QWL56040.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442943.1_cds_QWL56039.1_1 [protein=VP1] [protein_id=QWL56039.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442942.1_cds_QWL56038.1_1 [protein=VP1] [protein_id=QWL56038.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442941.1_cds_QWL56037.1_1 [protein=VP1] [protein_id=QWL56037.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442940.1_cds_QWL56036.1_1 [protein=VP1] [protein_id=QWL56036.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442939.1_cds_QWL56035.1_1 [protein=VP1] [protein_id=QWL56035.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442938.1_cds_QWL56034.1_1 [protein=VP1] [protein_id=QWL56034.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442937.1_cds_QWL56033.1_1 [protein=VP1] [protein_id=QWL56033.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442936.1_cds_QWL56032.1_1 [protein=VP1] [protein_id=QWL56032.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442935.1_cds_QWL56031.1_1 [protein=VP1] [protein_id=QWL56031.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442934.1_cds_QWL56030.1_1 [protein=VP1] [protein_id=QWL56030.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442933.1_cds_QWL56029.1_1 [protein=VP1] [protein_id=QWL56029.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442932.1_cds_QWL56028.1_1 [protein=VP1] [protein_id=QWL56028.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442931.1_cds_QWL56027.1_1 [protein=VP1] [protein_id=QWL56027.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442930.1_cds_QWL56026.1_1 [protein=VP1] [protein_id=QWL56026.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442929.1_cds_QWL56025.1_1 [protein=VP1] [protein_id=QWL56025.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442928.1_cds_QWL56024.1_1 [protein=VP1] [protein_id=QWL56024.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442927.1_cds_QWL56023.1_1 [protein=VP1] [protein_id=QWL56023.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442926.1_cds_QWL56022.1_1 [protein=VP1] [protein_id=QWL56022.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442925.1_cds_QWL56021.1_1 [protein=VP1] [protein_id=QWL56021.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442924.1_cds_QWL56020.1_1 [protein=VP1] [protein_id=QWL56020.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442923.1_cds_QWL56019.1_1 [protein=VP1] [protein_id=QWL56019.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442922.1_cds_QWL56018.1_1 [protein=VP1] [protein_id=QWL56018.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442921.1_cds_QWL56017.1_1 [protein=VP1] [protein_id=QWL56017.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442920.1_cds_QWL56016.1_1 [protein=VP1] [protein_id=QWL56016.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442919.1_cds_QWL56015.1_1 [protein=VP1] [protein_id=QWL56015.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442918.1_cds_QWL56014.1_1 [protein=VP1] [protein_id=QWL56014.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442917.1_cds_QWL56013.1_1 [protein=VP1] [protein_id=QWL56013.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442916.1_cds_QWL56012.1_1 [protein=VP1] [protein_id=QWL56012.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442915.1_cds_QWL56011.1_1 [protein=VP1] [protein_id=QWL56011.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442914.1_cds_QWL56010.1_1 [protein=VP1] [protein_id=QWL56010.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442913.1_cds_QWL56009.1_1 [protein=VP1] [protein_id=QWL56009.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442912.1_cds_QWL56008.1_1 [protein=VP1] [protein_id=QWL56008.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442911.1_cds_QWL56007.1_1 [protein=VP1] [protein_id=QWL56007.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442910.1_cds_QWL56006.1_1 [protein=VP1] [protein_id=QWL56006.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442909.1_cds_QWL56005.1_1 [protein=VP1] [protein_id=QWL56005.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442908.1_cds_QWL56004.1_1 [protein=VP1] [protein_id=QWL56004.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442907.1_cds_QWL56003.1_1 [protein=VP1] [protein_id=QWL56003.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442906.1_cds_QWL56002.1_1 [protein=VP1] [protein_id=QWL56002.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442905.1_cds_QWL56001.1_1 [protein=VP1] [protein_id=QWL56001.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442904.1_cds_QWL56000.1_1 [protein=VP1] [protein_id=QWL56000.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442903.1_cds_QWL55999.1_1 [protein=VP1] [protein_id=QWL55999.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442902.1_cds_QWL55998.1_1 [protein=VP1] [protein_id=QWL55998.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442901.1_cds_QWL55997.1_1 [protein=VP1] [protein_id=QWL55997.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442900.1_cds_QWL55996.1_1 [protein=VP1] [protein_id=QWL55996.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442899.1_cds_QWL55995.1_1 [protein=VP1] [protein_id=QWL55995.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442898.1_cds_QWL55994.1_1 [protein=VP1] [protein_id=QWL55994.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442897.1_cds_QWL55993.1_1 [protein=VP1] [protein_id=QWL55993.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442896.1_cds_QWL55992.1_1 [protein=VP1] [protein_id=QWL55992.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442895.1_cds_QWL55991.1_1 [protein=VP1] [protein_id=QWL55991.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442894.1_cds_QWL55990.1_1 [protein=VP1] [protein_id=QWL55990.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442893.1_cds_QWL55989.1_1 [protein=VP1] [protein_id=QWL55989.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442892.1_cds_QWL55988.1_1 [protein=VP1] [protein_id=QWL55988.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442891.1_cds_QWL55987.1_1 [protein=VP1] [protein_id=QWL55987.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442890.1_cds_QWL55986.1_1 [protein=VP1] [protein_id=QWL55986.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442889.1_cds_QWL55985.1_1 [protein=VP1] [protein_id=QWL55985.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442888.1_cds_QWL55984.1_1 [protein=VP1] [protein_id=QWL55984.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442887.1_cds_QWL55983.1_1 [protein=VP1] [protein_id=QWL55983.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442886.1_cds_QWL55982.1_1 [protein=VP1] [protein_id=QWL55982.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442885.1_cds_QWL55981.1_1 [protein=VP1] [protein_id=QWL55981.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442884.1_cds_QWL55980.1_1 [protein=VP1] [protein_id=QWL55980.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442883.1_cds_QWL55979.1_1 [protein=VP1] [protein_id=QWL55979.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442882.1_cds_QWL55978.1_1 [protein=VP1] [protein_id=QWL55978.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442881.1_cds_QWL55977.1_1 [protein=VP1] [protein_id=QWL55977.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442880.1_cds_QWL55976.1_1 [protein=VP1] [protein_id=QWL55976.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442879.1_cds_QWL55975.1_1 [protein=VP1] [protein_id=QWL55975.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442878.1_cds_QWL55974.1_1 [protein=VP1] [protein_id=QWL55974.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442877.1_cds_QWL55973.1_1 [protein=VP1] [protein_id=QWL55973.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442876.1_cds_QWL55972.1_1 [protein=VP1] [protein_id=QWL55972.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442875.1_cds_QWL55971.1_1 [protein=VP1] [protein_id=QWL55971.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442874.1_cds_QWL55970.1_1 [protein=VP1] [protein_id=QWL55970.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442873.1_cds_QWL55969.1_1 [protein=VP1] [protein_id=QWL55969.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442872.1_cds_QWL55968.1_1 [protein=VP1] [protein_id=QWL55968.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442871.1_cds_QWL55967.1_1 [protein=VP1] [protein_id=QWL55967.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442870.1_cds_QWL55966.1_1 [protein=VP1] [protein_id=QWL55966.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442869.1_cds_QWL55965.1_1 [protein=VP1] [protein_id=QWL55965.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442868.1_cds_QWL55964.1_1 [protein=VP1] [protein_id=QWL55964.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442867.1_cds_QWL55963.1_1 [protein=VP1] [protein_id=QWL55963.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442866.1_cds_QWL55962.1_1 [protein=VP1] [protein_id=QWL55962.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442865.1_cds_QWL55961.1_1 [protein=VP1] [protein_id=QWL55961.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442864.1_cds_QWL55960.1_1 [protein=VP1] [protein_id=QWL55960.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442863.1_cds_QWL55959.1_1 [protein=VP1] [protein_id=QWL55959.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442862.1_cds_QWL55958.1_1 [protein=VP1] [protein_id=QWL55958.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442861.1_cds_QWL55957.1_1 [protein=VP1] [protein_id=QWL55957.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442860.1_cds_QWL55956.1_1 [protein=VP1] [protein_id=QWL55956.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442859.1_cds_QWL55955.1_1 [protein=VP1] [protein_id=QWL55955.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442858.1_cds_QWL55954.1_1 [protein=VP1] [protein_id=QWL55954.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442857.1_cds_QWL55953.1_1 [protein=VP1] [protein_id=QWL55953.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442856.1_cds_QWL55952.1_1 [protein=VP1] [protein_id=QWL55952.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442855.1_cds_QWL55951.1_1 [protein=VP1] [protein_id=QWL55951.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442854.1_cds_QWL55950.1_1 [protein=VP1] [protein_id=QWL55950.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442853.1_cds_QWL55949.1_1 [protein=VP1] [protein_id=QWL55949.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442852.1_cds_QWL55948.1_1 [protein=VP1] [protein_id=QWL55948.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442851.1_cds_QWL55947.1_1 [protein=VP1] [protein_id=QWL55947.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442850.1_cds_QWL55946.1_1 [protein=VP1] [protein_id=QWL55946.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442849.1_cds_QWL55945.1_1 [protein=VP1] [protein_id=QWL55945.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442848.1_cds_QWL55944.1_1 [protein=VP1] [protein_id=QWL55944.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442847.1_cds_QWL55943.1_1 [protein=VP1] [protein_id=QWL55943.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442846.1_cds_QWL55942.1_1 [protein=VP1] [protein_id=QWL55942.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442845.1_cds_QWL55941.1_1 [protein=VP1] [protein_id=QWL55941.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442844.1_cds_QWL55940.1_1 [protein=VP1] [protein_id=QWL55940.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442843.1_cds_QWL55939.1_1 [protein=VP1] [protein_id=QWL55939.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442842.1_cds_QWL55938.1_1 [protein=VP1] [protein_id=QWL55938.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442841.1_cds_QWL55937.1_1 [protein=VP1] [protein_id=QWL55937.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442840.1_cds_QWL55936.1_1 [protein=VP1] [protein_id=QWL55936.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442839.1_cds_QWL55935.1_1 [protein=VP1] [protein_id=QWL55935.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442838.1_cds_QWL55934.1_1 [protein=VP1] [protein_id=QWL55934.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442837.1_cds_QWL55933.1_1 [protein=VP1] [protein_id=QWL55933.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442836.1_cds_QWL55932.1_1 [protein=VP1] [protein_id=QWL55932.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442835.1_cds_QWL55931.1_1 [protein=VP1] [protein_id=QWL55931.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442834.1_cds_QWL55930.1_1 [protein=VP1] [protein_id=QWL55930.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442833.1_cds_QWL55929.1_1 [protein=VP1] [protein_id=QWL55929.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442832.1_cds_QWL55928.1_1 [protein=VP1] [protein_id=QWL55928.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442831.1_cds_QWL55927.1_1 [protein=VP1] [protein_id=QWL55927.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442830.1_cds_QWL55926.1_1 [protein=VP1] [protein_id=QWL55926.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442829.1_cds_QWL55925.1_1 [protein=VP1] [protein_id=QWL55925.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442828.1_cds_QWL55924.1_1 [protein=VP1] [protein_id=QWL55924.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442827.1_cds_QWL55923.1_1 [protein=VP1] [protein_id=QWL55923.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442826.1_cds_QWL55922.1_1 [protein=VP1] [protein_id=QWL55922.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442825.1_cds_QWL55921.1_1 [protein=VP1] [protein_id=QWL55921.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442824.1_cds_QWL55920.1_1 [protein=VP1] [protein_id=QWL55920.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442823.1_cds_QWL55919.1_1 [protein=VP1] [protein_id=QWL55919.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442822.1_cds_QWL55918.1_1 [protein=VP1] [protein_id=QWL55918.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442821.1_cds_QWL55917.1_1 [protein=VP1] [protein_id=QWL55917.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442820.1_cds_QWL55916.1_1 [protein=VP1] [protein_id=QWL55916.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442819.1_cds_QWL55915.1_1 [protein=VP1] [protein_id=QWL55915.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442818.1_cds_QWL55914.1_1 [protein=VP1] [protein_id=QWL55914.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442817.1_cds_QWL55913.1_1 [protein=VP1] [protein_id=QWL55913.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442816.1_cds_QWL55912.1_1 [protein=VP1] [protein_id=QWL55912.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442815.1_cds_QWL55911.1_1 [protein=VP1] [protein_id=QWL55911.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442814.1_cds_QWL55910.1_1 [protein=VP1] [protein_id=QWL55910.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT442626.1_cds_QWL55722.1_1 [protein=VP1] [protein_id=QWL55722.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442625.1_cds_QWL55721.1_1 [protein=VP1] [protein_id=QWL55721.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442624.1_cds_QWL55720.1_1 [protein=VP1] [protein_id=QWL55720.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442623.1_cds_QWL55719.1_1 [protein=VP1] [protein_id=QWL55719.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442622.1_cds_QWL55718.1_1 [protein=VP1] [protein_id=QWL55718.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442621.1_cds_QWL55717.1_1 [protein=VP1] [protein_id=QWL55717.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442620.1_cds_QWL55716.1_1 [protein=VP1] [protein_id=QWL55716.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442619.1_cds_QWL55715.1_1 [protein=VP1] [protein_id=QWL55715.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442618.1_cds_QWL55714.1_1 [protein=VP1] [protein_id=QWL55714.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442617.1_cds_QWL55713.1_1 [protein=VP1] [protein_id=QWL55713.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442616.1_cds_QWL55712.1_1 [protein=VP1] [protein_id=QWL55712.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442615.1_cds_QWL55711.1_1 [protein=VP1] [protein_id=QWL55711.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442614.1_cds_QWL55710.1_1 [protein=VP1] [protein_id=QWL55710.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442613.1_cds_QWL55709.1_1 [protein=VP1] [protein_id=QWL55709.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442612.1_cds_QWL55708.1_1 [protein=VP1] [protein_id=QWL55708.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442611.1_cds_QWL55707.1_1 [protein=VP1] [protein_id=QWL55707.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442610.1_cds_QWL55706.1_1 [protein=VP1] [protein_id=QWL55706.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442609.1_cds_QWL55705.1_1 [protein=VP1] [protein_id=QWL55705.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442608.1_cds_QWL55704.1_1 [protein=VP1] [protein_id=QWL55704.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442607.1_cds_QWL55703.1_1 [protein=VP1] [protein_id=QWL55703.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442606.1_cds_QWL55702.1_1 [protein=VP1] [protein_id=QWL55702.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442605.1_cds_QWL55701.1_1 [protein=VP1] [protein_id=QWL55701.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MT442141.1_cds_QWL55237.1_1 [protein=VP1] [protein_id=QWL55237.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442140.1_cds_QWL55236.1_1 [protein=VP1] [protein_id=QWL55236.1] [location=<1..>507] [gbkey=CDS]	507	A
+lcl|MT442139.1_cds_QWL55235.1_1 [protein=VP1] [protein_id=QWL55235.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442138.1_cds_QWL55234.1_1 [protein=VP1] [protein_id=QWL55234.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442137.1_cds_QWL55233.1_1 [protein=VP1] [protein_id=QWL55233.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442136.1_cds_QWL55232.1_1 [protein=VP1] [protein_id=QWL55232.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442135.1_cds_QWL55231.1_1 [protein=VP1] [protein_id=QWL55231.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442134.1_cds_QWL55230.1_1 [protein=VP1] [protein_id=QWL55230.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442133.1_cds_QWL55229.1_1 [protein=VP1] [protein_id=QWL55229.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442132.1_cds_QWL55228.1_1 [protein=VP1] [protein_id=QWL55228.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442131.1_cds_QWL55227.1_1 [protein=VP1] [protein_id=QWL55227.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442130.1_cds_QWL55226.1_1 [protein=VP1] [protein_id=QWL55226.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442129.1_cds_QWL55225.1_1 [protein=VP1] [protein_id=QWL55225.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442128.1_cds_QWL55224.1_1 [protein=VP1] [protein_id=QWL55224.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442127.1_cds_QWL55223.1_1 [protein=VP1] [protein_id=QWL55223.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442126.1_cds_QWL55222.1_1 [protein=VP1] [protein_id=QWL55222.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442125.1_cds_QWL55221.1_1 [protein=VP1] [protein_id=QWL55221.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442124.1_cds_QWL55220.1_1 [protein=VP1] [protein_id=QWL55220.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442123.1_cds_QWL55219.1_1 [protein=VP1] [protein_id=QWL55219.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442122.1_cds_QWL55218.1_1 [protein=VP1] [protein_id=QWL55218.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442121.1_cds_QWL55217.1_1 [protein=VP1] [protein_id=QWL55217.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442120.1_cds_QWL55216.1_1 [protein=VP1] [protein_id=QWL55216.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442119.1_cds_QWL55215.1_1 [protein=VP1] [protein_id=QWL55215.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442118.1_cds_QWL55214.1_1 [protein=VP1] [protein_id=QWL55214.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442117.1_cds_QWL55213.1_1 [protein=VP1] [protein_id=QWL55213.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442116.1_cds_QWL55212.1_1 [protein=VP1] [protein_id=QWL55212.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442115.1_cds_QWL55211.1_1 [protein=VP1] [protein_id=QWL55211.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442114.1_cds_QWL55210.1_1 [protein=VP1] [protein_id=QWL55210.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442113.1_cds_QWL55209.1_1 [protein=VP1] [protein_id=QWL55209.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442112.1_cds_QWL55208.1_1 [protein=VP1] [protein_id=QWL55208.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442111.1_cds_QWL55207.1_1 [protein=VP1] [protein_id=QWL55207.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442110.1_cds_QWL55206.1_1 [protein=VP1] [protein_id=QWL55206.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442109.1_cds_QWL55205.1_1 [protein=VP1] [protein_id=QWL55205.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442106.1_cds_QWL55202.1_1 [protein=VP1] [protein_id=QWL55202.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442105.1_cds_QWL55201.1_1 [protein=VP1] [protein_id=QWL55201.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442104.1_cds_QWL55200.1_1 [protein=VP1] [protein_id=QWL55200.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442103.1_cds_QWL55199.1_1 [protein=VP1] [protein_id=QWL55199.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442102.1_cds_QWL55198.1_1 [protein=VP1] [protein_id=QWL55198.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442101.1_cds_QWL55197.1_1 [protein=VP1] [protein_id=QWL55197.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442100.1_cds_QWL55196.1_1 [protein=VP1] [protein_id=QWL55196.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442099.1_cds_QWL55195.1_1 [protein=VP1] [protein_id=QWL55195.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442098.1_cds_QWL55194.1_1 [protein=VP1] [protein_id=QWL55194.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442097.1_cds_QWL55193.1_1 [protein=VP1] [protein_id=QWL55193.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442096.1_cds_QWL55192.1_1 [protein=VP1] [protein_id=QWL55192.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442095.1_cds_QWL55191.1_1 [protein=VP1] [protein_id=QWL55191.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442094.1_cds_QWL55190.1_1 [protein=VP1] [protein_id=QWL55190.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442093.1_cds_QWL55189.1_1 [protein=VP1] [protein_id=QWL55189.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442092.1_cds_QWL55188.1_1 [protein=VP1] [protein_id=QWL55188.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442091.1_cds_QWL55187.1_1 [protein=VP1] [protein_id=QWL55187.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442090.1_cds_QWL55186.1_1 [protein=VP1] [protein_id=QWL55186.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442089.1_cds_QWL55185.1_1 [protein=VP1] [protein_id=QWL55185.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442088.1_cds_QWL55184.1_1 [protein=VP1] [protein_id=QWL55184.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442087.1_cds_QWL55183.1_1 [protein=VP1] [protein_id=QWL55183.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442086.1_cds_QWL55182.1_1 [protein=VP1] [protein_id=QWL55182.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442085.1_cds_QWL55181.1_1 [protein=VP1] [protein_id=QWL55181.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442084.1_cds_QWL55180.1_1 [protein=VP1] [protein_id=QWL55180.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442083.1_cds_QWL55179.1_1 [protein=VP1] [protein_id=QWL55179.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442082.1_cds_QWL55178.1_1 [protein=VP1] [protein_id=QWL55178.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442081.1_cds_QWL55177.1_1 [protein=VP1] [protein_id=QWL55177.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442080.1_cds_QWL55176.1_1 [protein=VP1] [protein_id=QWL55176.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442079.1_cds_QWL55175.1_1 [protein=VP1] [protein_id=QWL55175.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442078.1_cds_QWL55174.1_1 [protein=VP1] [protein_id=QWL55174.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442077.1_cds_QWL55173.1_1 [protein=VP1] [protein_id=QWL55173.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442076.1_cds_QWL55172.1_1 [protein=VP1] [protein_id=QWL55172.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442075.1_cds_QWL55171.1_1 [protein=VP1] [protein_id=QWL55171.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442074.1_cds_QWL55170.1_1 [protein=VP1] [protein_id=QWL55170.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|MT442073.1_cds_QWL55169.1_1 [protein=VP1] [protein_id=QWL55169.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|KY091293.1_cds_APX53718.1_1 [protein=VP1] [protein_id=APX53718.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|DQ121110.1_cds_AAZ29217.1_1 [gene=1D] [protein=VP1] [protein_id=AAZ29217.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|DQ121109.1_cds_AAZ29216.1_1 [gene=1D] [protein=VP1] [protein_id=AAZ29216.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|FJ785227.1_cds_ACN81711.1_1 [gene=1D] [protein=VP1] [protein_id=ACN81711.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|FJ785226.1_cds_ACN81710.1_1 [gene=1D] [protein=VP1] [protein_id=ACN81710.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|FJ755009.1_cds_ACN79589.1_1 [gene=1D] [protein=VP1] [protein_id=ACN79589.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|FJ755008.1_cds_ACN79588.1_1 [gene=1D] [protein=VP1] [protein_id=ACN79588.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|FJ755007.1_cds_ACN79587.1_1 [gene=1D] [protein=VP1] [protein_id=ACN79587.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439293.1_cds_ADZ98818.1_1 [protein=VP1] [protein_id=ADZ98818.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439292.1_cds_ADZ98817.1_1 [protein=VP1] [protein_id=ADZ98817.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|HQ439291.1_cds_ADZ98816.1_1 [protein=VP1] [protein_id=ADZ98816.1] [location=<1..>639] [gbkey=CDS]	639	A

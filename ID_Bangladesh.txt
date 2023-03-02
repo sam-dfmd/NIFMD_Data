@@ -1,0 +1,124 @@
+Samp	Length	Serotype
+639] [gbkey=CDS]	639	O
+lcl|KR869774.1_cds_ALB26759.1_1 [protein=VP1] [protein_id=ALB26759.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|KR869773.1_cds_ALB26758.1_1 [protein=VP1] [protein_id=ALB26758.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|KT037120.1_cds_ALB26755.1_1 [protein=VP1] [protein_id=ALB26755.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|KT037119.1_cds_ALB26754.1_1 [protein=VP1] [protein_id=ALB26754.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|KT037118.1_cds_ALB26753.1_1 [protein=VP1] [protein_id=ALB26753.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MK056240.1_cds_QBB64264.1_1 [protein=VP1] [frame=3] [protein_id=QBB64264.1] [location=<1..>308] [gbkey=CDS]	306	Asia 1
+lcl|MH704868.1_cds_AXS67933.1_1 [protein=VP1] [protein_id=AXS67933.1] [location=complement(<1..>284)] [gbkey=CDS]	284	Asia 1
+lcl|MH699984.1_cds_AXS67919.1_1 [protein=VP1] [frame=2] [protein_id=AXS67919.1] [location=complement(<1..>284)] [gbkey=CDS]	283	Asia 1
+lcl|MT316590.1_cds_QYY49572.1_1 [protein=VP1] [protein_id=QYY49572.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MT316588.1_cds_QYY49570.1_1 [protein=VP1] [protein_id=QYY49570.1] [location=<1..>720] [gbkey=CDS]	720	O
+lcl|MT316587.1_cds_QYY49569.1_1 [protein=VP1] [protein_id=QYY49569.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|KY595434.1_cds_AUT11810.1_1 [protein=structural protein VP1] [protein_id=AUT11810.1] [location=<1..>500] [gbkey=CDS]	500	O
+lcl|KY595433.1_cds_AUT11809.1_1 [protein=structural protein VP1] [protein_id=AUT11809.1] [location=<1..>500] [gbkey=CDS]	500	O
+lcl|KY595432.1_cds_AUT11808.1_1 [protein=structural protein VP1] [protein_id=AUT11808.1] [location=<1..>494] [gbkey=CDS]	494	O
+lcl|KY595431.1_cds_AUT11807.1_1 [protein=structural protein VP1] [protein_id=AUT11807.1] [location=<1..>500] [gbkey=CDS]	500	O
+lcl|KY595430.1_cds_AUT11806.1_1 [protein=structural protein VP1] [protein_id=AUT11806.1] [location=<1..>500] [gbkey=CDS]	500	O
+lcl|KY595429.1_cds_AUT11805.1_1 [protein=structural protein VP1] [protein_id=AUT11805.1] [location=<1..>500] [gbkey=CDS]	500	O
+lcl|KY595428.1_cds_AUT11804.1_1 [protein=structural protein VP1] [protein_id=AUT11804.1] [location=<1..>500] [gbkey=CDS]	500	O
+lcl|KY595427.1_cds_AUT11803.1_1 [protein=structural protein VP1] [protein_id=AUT11803.1] [location=<1..>500] [gbkey=CDS]	500	O
+lcl|KY595426.1_cds_AUT11802.1_1 [protein=structural protein VP1] [protein_id=AUT11802.1] [location=<1..>500] [gbkey=CDS]	500	O
+lcl|KY595425.1_cds_AUT11801.1_1 [protein=structural protein VP1] [protein_id=AUT11801.1] [location=<1..>500] [gbkey=CDS]	500	O
+lcl|KY421684.1_cds_AUB45071.1_1 [protein=VP1] [protein_id=AUB45071.1] [location=<1..>633] [gbkey=CDS]	633	A
+lcl|KY421683.1_cds_AUB45070.1_1 [protein=VP1] [protein_id=AUB45070.1] [location=<1..>633] [gbkey=CDS]	633	A
+lcl|KY421682.1_cds_AUB45069.1_1 [protein=VP1] [protein_id=AUB45069.1] [location=<1..>633] [gbkey=CDS]	633	A
+lcl|KY421681.1_cds_AUB45068.1_1 [protein=VP1] [protein_id=AUB45068.1] [location=<1..>633] [gbkey=CDS]	633	A
+lcl|KY421680.1_cds_AUB45067.1_1 [protein=VP1] [protein_id=AUB45067.1] [location=<1..>633] [gbkey=CDS]	633	A
+lcl|KY421679.1_cds_AUB45066.1_1 [protein=VP1] [protein_id=AUB45066.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|KY421678.1_cds_AUB45065.1_1 [protein=VP1] [protein_id=AUB45065.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|KX784489.1_cds_AOV81572.1_1 [protein=VP1] [frame=2] [protein_id=AOV81572.1] [location=<1..>231] [gbkey=CDS]	230	Asia 1
+lcl|KX784488.1_cds_AOV81571.1_1 [protein=VP1] [frame=2] [protein_id=AOV81571.1] [location=<1..>225] [gbkey=CDS]	224	Asia 1
+lcl|KX784487.1_cds_AOV81570.1_1 [protein=VP1] [frame=2] [protein_id=AOV81570.1] [location=<1..>210] [gbkey=CDS]	209	Asia 1
+lcl|KX784486.1_cds_AOV81569.1_1 [protein=VP1] [frame=2] [protein_id=AOV81569.1] [location=<1..>211] [gbkey=CDS]	210	Asia 1
+lcl|KX784485.1_cds_AOV81568.1_1 [protein=VP1] [frame=2] [protein_id=AOV81568.1] [location=<1..>211] [gbkey=CDS]	210	Asia 1
+lcl|KX784484.1_cds_AOV81567.1_1 [protein=VP1] [frame=2] [protein_id=AOV81567.1] [location=<1..>219] [gbkey=CDS]	218	Asia 1
+lcl|KU159763.1_cds_ANB49719.1_1 [protein=VP1] [protein_id=ANB49719.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|KU159762.1_cds_ANB49718.1_1 [protein=VP1] [protein_id=ANB49718.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|KT982205.1_cds_AMY26678.1_1 [protein=VP1] [protein_id=AMY26678.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|KT982204.1_cds_AMY26677.1_1 [protein=VP1] [protein_id=AMY26677.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|KT982203.1_cds_AMY26676.1_1 [protein=VP1] [protein_id=AMY26676.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|KU684494.1_cds_AMJ21967.1_1 [gene=VP1] [protein=structural protein VP1] [protein_id=AMJ21967.1] [location=<1..>639] [gbkey=CDS]	639	A
+lcl|KP119763.1_cds_AJF93935.1_1 [protein=VP1] [protein_id=AJF93935.1] [location=<1..>493] [gbkey=CDS]	493	A
+lcl|KP119757.1_cds_AJF93929.1_1 [protein=VP1] [frame=2] [protein_id=AJF93929.1] [location=<1..>295] [gbkey=CDS]	294	Asia 1
+lcl|KP119756.1_cds_AJF93928.1_1 [protein=VP1] [protein_id=AJF93928.1] [location=<1..>297] [gbkey=CDS]	297	Asia 1
+lcl|KP119755.1_cds_AJF93927.1_1 [protein=VP1] [protein_id=AJF93927.1] [location=<1..>294] [gbkey=CDS]	294	Asia 1
+lcl|KP119754.1_cds_AJF93926.1_1 [protein=VP1] [frame=2] [protein_id=AJF93926.1] [location=<1..>294] [gbkey=CDS]	293	Asia 1
+lcl|KC795965.1_cds_AGN51709.1_1 [protein=VP1] [protein_id=AGN51709.1] [location=<1..>395] [gbkey=CDS]	395	A
+lcl|KC795964.1_cds_AGN51708.1_1 [protein=VP1] [protein_id=AGN51708.1] [location=<1..>390] [gbkey=CDS]	390	A
+lcl|KC795963.1_cds_AGN51707.1_1 [protein=VP1] [protein_id=AGN51707.1] [location=<1..>288] [gbkey=CDS]	288	A
+lcl|KC795962.1_cds_AGN51706.1_1 [protein=VP1] [protein_id=AGN51706.1] [location=<1..>404] [gbkey=CDS]	404	A
+lcl|KC795961.1_cds_AGN51705.1_1 [protein=VP1] [frame=2] [protein_id=AGN51705.1] [location=<1..>382] [gbkey=CDS]	381	A
+lcl|KC795960.1_cds_AGN51704.1_1 [protein=VP1] [protein_id=AGN51704.1] [location=<1..>396] [gbkey=CDS]	396	A
+lcl|HQ630692.1_cds_ADY11047.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11047.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630691.1_cds_ADY11046.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11046.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630690.1_cds_ADY11045.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11045.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630689.1_cds_ADY11044.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11044.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630688.1_cds_ADY11043.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11043.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630687.1_cds_ADY11042.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11042.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630686.1_cds_ADY11041.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11041.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630685.1_cds_ADY11040.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11040.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630684.1_cds_ADY11039.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11039.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630683.1_cds_ADY11038.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11038.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630682.1_cds_ADY11037.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11037.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630681.1_cds_ADY11036.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11036.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630680.1_cds_ADY11035.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11035.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630679.1_cds_ADY11034.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11034.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630678.1_cds_ADY11033.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11033.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630677.1_cds_ADY11032.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11032.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630676.1_cds_ADY11031.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11031.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320458.1_cds_UYP38735.1_1 [protein=VP1] [protein_id=UYP38735.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320457.1_cds_UYP38734.1_1 [protein=VP1] [protein_id=UYP38734.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320456.1_cds_UYP38733.1_1 [protein=VP1] [protein_id=UYP38733.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320455.1_cds_UYP38732.1_1 [protein=VP1] [protein_id=UYP38732.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320454.1_cds_UYP38731.1_1 [protein=VP1] [protein_id=UYP38731.1] [location=<1..>570] [gbkey=CDS]	570	O
+lcl|OP320453.1_cds_UYP38730.1_1 [protein=VP1] [protein_id=UYP38730.1] [location=<1..>576] [gbkey=CDS]	576	O
+lcl|OP320452.1_cds_UYP38729.1_1 [protein=VP1] [protein_id=UYP38729.1] [location=<1..>573] [gbkey=CDS]	573	O
+lcl|OP320451.1_cds_UYP38728.1_1 [protein=VP1] [protein_id=UYP38728.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320450.1_cds_UYP38727.1_1 [protein=VP1] [protein_id=UYP38727.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320449.1_cds_UYP38726.1_1 [protein=VP1] [protein_id=UYP38726.1] [location=<1..>570] [gbkey=CDS]	570	O
+lcl|OP320448.1_cds_UYP38725.1_1 [protein=VP1] [protein_id=UYP38725.1] [location=<1..>468] [gbkey=CDS]	468	O
+lcl|OP320447.1_cds_UYP38724.1_1 [protein=VP1] [protein_id=UYP38724.1] [location=<1..>570] [gbkey=CDS]	570	O
+lcl|OP320446.1_cds_UYP38723.1_1 [protein=VP1] [protein_id=UYP38723.1] [location=<1..>570] [gbkey=CDS]	570	O
+lcl|OP320445.1_cds_UYP38722.1_1 [protein=VP1] [protein_id=UYP38722.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320444.1_cds_UYP38721.1_1 [protein=VP1] [protein_id=UYP38721.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320443.1_cds_UYP38720.1_1 [protein=VP1] [protein_id=UYP38720.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320442.1_cds_UYP38719.1_1 [protein=VP1] [protein_id=UYP38719.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320441.1_cds_UYP38718.1_1 [protein=VP1] [protein_id=UYP38718.1] [location=<1..>582] [gbkey=CDS]	582	O
+lcl|OP320440.1_cds_UYP38717.1_1 [protein=VP1] [protein_id=UYP38717.1] [location=<1..>579] [gbkey=CDS]	579	O
+lcl|OP320439.1_cds_UYP38716.1_1 [protein=VP1] [protein_id=UYP38716.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320438.1_cds_UYP38715.1_1 [protein=VP1] [protein_id=UYP38715.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320437.1_cds_UYP38714.1_1 [protein=VP1] [protein_id=UYP38714.1] [location=<1..>579] [gbkey=CDS]	579	A
+lcl|OP320436.1_cds_UYP38713.1_1 [protein=VP1] [protein_id=UYP38713.1] [location=<1..>579] [gbkey=CDS]	579	A
+lcl|OP320435.1_cds_UYP38712.1_1 [protein=VP1] [protein_id=UYP38712.1] [location=<1..>564] [gbkey=CDS]	564	A
+lcl|OP320434.1_cds_UYP38711.1_1 [protein=VP1] [protein_id=UYP38711.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320433.1_cds_UYP38710.1_1 [protein=VP1] [protein_id=UYP38710.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320432.1_cds_UYP38709.1_1 [protein=VP1] [protein_id=UYP38709.1] [location=<1..>585] [gbkey=CDS]	585	O
+lcl|OP320431.1_cds_UYP38708.1_1 [protein=VP1] [protein_id=UYP38708.1] [location=<1..>585] [gbkey=CDS]	585	O
+lcl|OP320430.1_cds_UYP38707.1_1 [protein=VP1] [protein_id=UYP38707.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320429.1_cds_UYP38706.1_1 [protein=VP1] [protein_id=UYP38706.1] [location=<1..>501] [gbkey=CDS]	501	A
+lcl|OP320428.1_cds_UYP38705.1_1 [protein=VP1] [protein_id=UYP38705.1] [location=<1..>516] [gbkey=CDS]	516	A
+lcl|OP320427.1_cds_UYP38704.1_1 [protein=VP1] [protein_id=UYP38704.1] [location=<1..>519] [gbkey=CDS]	519	O
+lcl|OP320426.1_cds_UYP38703.1_1 [protein=VP1] [protein_id=UYP38703.1] [location=<1..>585] [gbkey=CDS]	585	O
+lcl|OP320425.1_cds_UYP38702.1_1 [protein=VP1] [protein_id=UYP38702.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP320424.1_cds_UYP38701.1_1 [protein=VP1] [protein_id=UYP38701.1] [location=<1..>504] [gbkey=CDS]	504	O
+lcl|OP320423.1_cds_UYP38700.1_1 [protein=VP1] [protein_id=UYP38700.1] [location=<1..>585] [gbkey=CDS]	585	O
+lcl|OP320422.1_cds_UYP38699.1_1 [protein=VP1] [protein_id=UYP38699.1] [location=<1..>585] [gbkey=CDS]	585	O
+lcl|OP320421.1_cds_UYP38698.1_1 [protein=VP1] [protein_id=UYP38698.1] [location=<1..>546] [gbkey=CDS]	546	O
+lcl|OP320420.1_cds_UYP38697.1_1 [protein=VP1] [protein_id=UYP38697.1] [location=<1..>582] [gbkey=CDS]	582	O
+lcl|OP320419.1_cds_UYP38696.1_1 [protein=VP1] [protein_id=UYP38696.1] [location=<1..>516] [gbkey=CDS]	516	O
+lcl|OP320418.1_cds_UYP38695.1_1 [protein=VP1] [protein_id=UYP38695.1] [location=<1..>579] [gbkey=CDS]	579	O
+lcl|OP320417.1_cds_UYP38694.1_1 [protein=VP1] [protein_id=UYP38694.1] [location=<1..>579] [gbkey=CDS]	579	O
+lcl|OP320416.1_cds_UYP38693.1_1 [protein=VP1] [protein_id=UYP38693.1] [location=<1..>594] [gbkey=CDS]	594	O
+lcl|OP320415.1_cds_UYP38692.1_1 [protein=VP1] [protein_id=UYP38692.1] [location=<1..>531] [gbkey=CDS]	531	O
+lcl|OP271697.1_cds_UYP11328.1_1 [protein=VP1] [protein_id=UYP11328.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|OP271696.1_cds_UYP11327.1_1 [protein=VP1] [protein_id=UYP11327.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MN447114.1_cds_QFP12370.1_1 [protein=VP1] [protein_id=QFP12370.1] [location=<1..>633] [gbkey=CDS]	633	Asia 1
+lcl|MN447113.1_cds_QFP12369.1_1 [protein=VP1] [protein_id=QFP12369.1] [location=<1..>243] [gbkey=CDS]	243	Asia 1
+lcl|HQ630696.1_cds_ADY11051.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11051.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630695.1_cds_ADY11050.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11050.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630694.1_cds_ADY11049.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11049.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|HQ630693.1_cds_ADY11048.1_1 [gene=1D] [protein=VP1 protein] [protein_id=ADY11048.1] [location=<1..>639] [gbkey=CDS]	639	O
+lcl|MN596870.1_cds_QKZ25446.1_1 [protein=VP1] [protein_id=QKZ25446.1] [location=<1..>633] [gbkey=CDS]	633	A
+lcl|MN596869.1_cds_QKZ25445.1_1 [protein=VP1] [protein_id=QKZ25445.1] [location=<1..>633] [gbkey=CDS]	633	A
